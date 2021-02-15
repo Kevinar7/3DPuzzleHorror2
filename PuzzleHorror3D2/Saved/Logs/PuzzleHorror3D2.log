@@ -1863,3 +1863,736 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.15-14.23.22:629][569]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
 [2021.02.15-14.23.22:629][569]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
 [2021.02.15-14.23.22:845][569]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.24:648][575]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.24:648][575]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.24:648][575]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.24:856][575]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.26:669][581]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.26:669][581]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.26:670][581]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.26:868][581]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.28:687][587]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.28:687][587]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.28:687][587]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.28:878][587]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.30:710][593]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.30:710][593]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.30:711][593]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.30:896][593]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.32:736][599]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.32:737][599]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.32:737][599]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.32:910][599]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.34:766][605]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.34:766][605]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.34:766][605]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.34:919][605]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.36:792][611]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.36:792][611]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.36:792][611]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.36:934][611]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.38:812][617]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.38:812][617]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.38:812][617]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.38:938][617]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.40:737][623]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.40:737][623]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.40:738][623]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.40:949][623]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.42:765][629]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.42:765][629]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.42:765][629]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.42:962][629]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.44:786][635]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.44:786][635]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.44:786][635]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.44:968][635]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.46:807][641]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.46:807][641]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.46:807][641]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.46:976][641]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.48:831][647]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.48:831][647]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.48:831][647]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.48:990][647]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.50:855][653]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.50:856][653]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.50:856][653]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.51:002][653]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.52:877][659]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.52:877][659]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.52:877][659]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.53:020][659]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.54:896][665]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.54:896][665]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.54:896][665]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.55:038][665]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.56:916][671]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.56:916][671]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.56:916][671]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.57:060][671]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.23.58:937][677]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.23.58:938][677]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.23.58:938][677]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.23.59:075][677]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.00:962][683]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.00:962][683]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.00:962][683]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.01:085][683]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.02:880][689]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.02:880][689]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.02:880][689]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.03:094][689]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.04:902][695]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.04:902][695]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.04:902][695]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.05:110][695]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.06:924][701]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.06:924][701]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.06:925][701]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.07:118][701]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.08:954][707]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.08:954][707]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.08:954][707]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.09:128][707]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.10:979][713]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.10:979][713]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.10:979][713]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.11:137][713]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.13:005][719]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.13:005][719]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.13:005][719]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.13:169][719]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.15:032][725]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.15:033][725]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.15:033][725]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.15:180][725]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.17:058][731]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.17:059][731]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.17:059][731]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.17:196][731]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.18:986][737]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.18:986][737]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.18:986][737]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.19:195][737]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.21:009][743]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.21:009][743]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.21:009][743]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.21:215][743]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.23:031][749]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.23:031][749]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.23:031][749]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.23:249][749]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.25:053][755]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.25:053][755]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.25:053][755]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.25:251][755]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.27:075][761]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.27:075][761]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.27:075][761]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.27:257][761]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.29:104][767]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.29:104][767]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.29:104][767]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.29:271][767]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.31:129][773]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.31:129][773]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.31:129][773]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.31:292][773]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.33:153][779]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.33:153][779]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.33:153][779]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.33:322][779]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.35:176][785]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.35:176][785]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.35:176][785]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.35:347][785]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.37:199][791]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.37:199][791]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.37:199][791]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.37:358][791]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.39:220][797]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.39:220][797]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.39:220][797]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.39:375][797]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.41:246][803]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.41:246][803]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.41:246][803]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.41:400][803]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.43:275][809]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.43:276][809]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.43:276][809]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.43:413][809]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.45:200][815]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.45:200][815]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.45:200][815]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.45:417][815]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.47:218][821]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.47:218][821]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.47:218][821]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.47:433][821]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.49:239][827]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.49:239][827]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.49:240][827]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.49:455][827]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.51:260][833]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.51:260][833]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.51:260][833]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.51:474][833]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.53:281][839]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.53:281][839]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.53:281][839]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.53:480][839]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.55:306][845]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.55:306][845]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.55:306][845]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.55:496][845]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.57:334][851]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.57:334][851]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.57:334][851]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.57:518][851]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.24.59:357][857]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.02.15-14.24.59:357][857]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.02.15-14.24.59:358][857]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.02.15-14.24.59:540][857]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.02.15-14.25.01:046][900]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.02.15-14.25.01:139][900]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.01:139][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.25.01:268][900]LogSlate: Window 'PuzzleHorror3D2 - Unreal Editor' being destroyed
+[2021.02.15-14.25.01:433][901]Cmd: QUIT_EDITOR
+[2021.02.15-14.25.01:434][901]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.02.15-14.25.01:442][901]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.02.15-14.25.01:480][901]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.02.15-14.25.01:480][901]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.02.15-14.25.01:480][901]LogAudio: Display: Audio Device unregistered from world 'Kevin'.
+[2021.02.15-14.25.01:481][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.25.01:486][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.25.01:559][901]LogAudio: Display: Audio Device Manager Shutdown
+[2021.02.15-14.25.01:560][901]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.15-14.25.01:575][901]LogExit: Preparing to exit.
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2200] Windows
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2300] Default__DeviceProfile
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E452900] WindowsNoEditor
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A1300] WindowsServer
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E453800] WindowsClient
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A0600] IOS
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E452E00] iPadAir
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2000] iPadAir2
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EE100] IPadPro
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EE200] iPadAir3
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E453F00] iPadAir4
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EFA00] iPadMini2
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E450E00] iPadMini3
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3ED500] iPadMini4
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E451600] iPadMini5
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41DA00] iPhone6
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41DB00] iPodTouch6
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EE700] iPhone7
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EDD00] iPodTouch7
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41F200] iPhone5S
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EFB00] iPhone6Plus
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41D700] iPhone6S
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EE900] iPhone6SPlus
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41C700] iPhone7Plus
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EEF00] iPhoneSE
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41ED00] iPhone8
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EC800] iPhone8Plus
+[2021.02.15-14.25.01:685][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41D500] iPhoneX
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EE500] iPhoneXS
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41EC00] iPhoneXSMax
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3ED600] iPhoneXR
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41CB00] iPhone11
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EF400] iPhone11Pro
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41FE00] iPhone11ProMax
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EC400] iPhoneSE2
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41CA00] iPhone12Mini
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EEA00] iPhone12
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41F000] iPhone12Pro
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2900] iPhone12ProMax
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41D800] iPadPro105
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A0400] iPadPro129
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41D000] iPadPro97
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A3100] iPadPro2_129
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41DC00] iPad5
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2C00] iPad6
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41FF00] iPad7
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A3700] iPad8
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41CE00] iPadPro11
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2400] iPadPro2_11
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41C500] iPadPro3_129
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A0A00] iPadPro4_129
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41F400] AppleTV
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2100] AppleTV4K
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41D400] TVOS
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A1900] Mac
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41C200] MacClient
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A0800] MacNoEditor
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41FB00] MacServer
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A3400] Linux
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41C400] LinuxNoEditor
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A1D00] LinuxAArch64NoEditor
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41EE00] LinuxClient
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A0C00] LinuxAArch64Client
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41C900] LinuxServer
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A3600] LinuxAArch64Server
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41C300] Android
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A1100] Android_Low
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41EA00] Android_Mid
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A1500] Android_High
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41F700] Android_Default
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A0100] Android_Adreno4xx
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41E600] Android_Adreno5xx_Low
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2B00] Android_Adreno5xx
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41E900] Android_Adreno6xx
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A1000] Android_Adreno6xx_Vulkan
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41E000] Android_Mali_T6xx
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2800] Android_Mali_T7xx
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41DE00] Android_Mali_T8xx
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A0500] Android_Mali_G71
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41E500] Android_Mali_G72
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E4A2700] Android_Mali_G72_Vulkan
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E41F800] Android_Mali_G76
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E450600] Android_Mali_G76_Vulkan
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EE800] Android_Mali_G77
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E452D00] Android_Mali_G77_Vulkan
+[2021.02.15-14.25.01:686][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EC900] Android_Vulkan_SM5
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E450200] Android_PowerVR_G6xxx
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3ED700] Android_PowerVR_GT7xxx
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E450500] Android_PowerVR_GE8xxx
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EED00] Android_PowerVR_GM9xxx
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E453700] Android_PowerVR_GM9xxx_Vulkan
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EFF00] Android_TegraK1
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E451500] Android_Unknown_Vulkan
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EDC00] Lumin
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E451300] Lumin_Desktop
+[2021.02.15-14.25.01:687][901]LogDeviceProfile: Device profile begin destroy: [000001A96E3EFC00] HoloLens
+[2021.02.15-14.25.01:701][901]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.01:705][901]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.01:708][901]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.01:713][901]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.01:717][901]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.01:789][901]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.02.15-14.25.01:800][901]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.01:800][901]LogExit: Editor shut down
+[2021.02.15-14.25.01:801][901]LogExit: Transaction tracking system shut down
+[2021.02.15-14.25.02:087][901]LogExit: Object subsystem successfully closed.
+[2021.02.15-14.25.02:132][901]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (820)
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module Voice (818)
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module StatsViewer (816)
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module BlueprintGraph (814)
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (812)
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module SceneOutliner (810)
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module AddContentDialog (808)
+[2021.02.15-14.25.02:148][901]LogModuleManager: Shutting down and abandoning module WidgetCarousel (807)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module EditorWidgets (804)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (802)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (800)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module AutomationWorker (798)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module SteamVREditor (796)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module OculusMR (794)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module GooglePADEditor (792)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (790)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (788)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (786)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (784)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (782)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (780)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (778)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (776)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (774)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module WebMMedia (772)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (768)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module SequenceRecorder (767)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (764)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (762)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (760)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (754)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (752)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module PlanarCut (750)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (748)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (746)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (744)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module CharacterAI (742)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (740)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module TextureAlignMode (738)
+[2021.02.15-14.25.02:149][901]LogModuleManager: Shutting down and abandoning module BspMode (736)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module GeometryMode (734)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module SmartSnapping (732)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module SessionServices (730)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module MeshPaint (728)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (726)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module FoliageEdit (724)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module LandscapeEditor (722)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module MeshPaintMode (720)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (718)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module ActorPickerMode (716)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module PlacementMode (714)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module ViewportSnapping (712)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module ViewportInteraction (710)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module ClothPainter (708)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (707)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module LogVisualizer (704)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module IntroTutorials (702)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (701)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (698)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (696)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (694)
+[2021.02.15-14.25.02:150][901]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (693)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (690)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (688)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (686)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (684)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module TraceInsights (682)
+[2021.02.15-14.25.03:129][901]MemoryProfiler: Shutdown
+[2021.02.15-14.25.03:129][901]NetworkingProfiler: Shutdown
+[2021.02.15-14.25.03:129][901]LoadingProfiler: Shutdown
+[2021.02.15-14.25.03:129][901]TimingProfiler: Shutdown
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module TraceServices (681)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (678)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (676)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module InputBindingEditor (674)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module MergeActors (672)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (670)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module LocalizationService (669)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module HardwareTargeting (666)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (664)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module UndoHistory (662)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module XmlParser (660)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module Blutility (658)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (656)
+[2021.02.15-14.25.03:129][901]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (655)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (652)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (651)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module SettingsEditor (648)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module ProjectLauncher (646)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module SessionFrontend (644)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module ProfilerClient (642)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module DeviceManager (640)
+[2021.02.15-14.25.03:130][901]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (639)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module AutomationController (636)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module AutomationWindow (634)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module Layers (632)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (630)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module DetailCustomizations (628)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module PackagesDialog (626)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (624)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module Persona (622)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (621)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module AnimGraph (619)
+[2021.02.15-14.25.03:163][901]LogModuleManager: Shutting down and abandoning module Kismet (616)
+[2021.02.15-14.25.03:175][901]LogModuleManager: Shutting down and abandoning module KismetWidgets (615)
+[2021.02.15-14.25.03:175][901]LogModuleManager: Shutting down and abandoning module GraphEditor (612)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module StructViewer (610)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module ClassViewer (608)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module Toolbox (606)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module ModuleUI (604)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module OutputLog (602)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module GammaUI (600)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module Documentation (598)
+[2021.02.15-14.25.03:176][901]LogModuleManager: Shutting down and abandoning module LiveCoding (596)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module LevelSequence (594)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (592)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module MovieScene (590)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (588)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module LauncherPlatform (586)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module AnalyticsET (584)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module PortalServices (582)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module PortalRpc (580)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module MessagingRpc (578)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (576)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module AudioMixerCore (575)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module AIModule (572)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module GameplayDebugger (571)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module AITestSuite (569)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module NavigationSystem (567)
+[2021.02.15-14.25.03:177][901]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (564)
+[2021.02.15-14.25.03:183][901]LogModuleManager: Shutting down and abandoning module ProfilerService (562)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module TaskGraph (560)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (558)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module OculusEditor (556)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module OculusInput (554)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (552)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (550)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module CollectionManager (549)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (546)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (544)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (542)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module UObjectPlugin (540)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (538)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module PluginUtils (536)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (534)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (532)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module GitSourceControl (530)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module SourceControl (529)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (526)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (524)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module ScreenshotTools (522)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module SynthesisEditor (520)
+[2021.02.15-14.25.03:334][901]LogModuleManager: Shutting down and abandoning module Synthesis (518)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (516)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (514)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (512)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GooglePAD (510)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module EditableMesh (508)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (506)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module CableComponent (504)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module AudioCapture (502)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (501)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module AssetTags (498)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (496)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (494)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module AppleImageUtils (492)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module AndroidPermission (490)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (488)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (486)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module TemplateSequence (484)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module MediaCompositing (482)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module ImgMedia (480)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (478)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module MotoSynth (476)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (474)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (473)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (470)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module MeshConversion (468)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module DynamicMesh (466)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (464)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometricObjects (462)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (460)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (458)
+[2021.02.15-14.25.03:335][901]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (456)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (454)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module ChaosNiagara (452)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (450)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (448)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module FractureEditor (446)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (445)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (442)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (440)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (438)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (436)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (428)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (418)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (412)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (400)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (398)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (396)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module Paper2DEditor (394)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (392)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (390)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (388)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module AnimationSharing (386)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module SoundFields (384)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module SignificanceManager (382)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (380)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (378)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (376)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (372)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (370)
+[2021.02.15-14.25.03:336][901]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (368)
+[2021.02.15-14.25.03:337][901]LogModuleManager: Shutting down and abandoning module ActorSequence (366)
+[2021.02.15-14.25.03:337][901]LogModuleManager: Shutting down and abandoning module UdpMessaging (364)
+[2021.02.15-14.25.03:437][901]LogModuleManager: Shutting down and abandoning module TcpMessaging (362)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (360)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (358)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (356)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (354)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (352)
+[2021.02.15-14.25.03:538][901]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (350)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (348)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (346)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (344)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapController (342)
+[2021.02.15-14.25.03:538][901]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (340)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module MagicLeapAR (338)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module AugmentedReality (337)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (334)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module Niagara (332)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module SignalProcessing (331)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module NiagaraEditor (329)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module NiagaraCore (326)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (324)
+[2021.02.15-14.25.03:538][901]LogModuleManager: Shutting down and abandoning module FacialAnimation (322)
+[2021.02.15-14.25.03:539][901]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (320)
+[2021.02.15-14.25.03:539][901]LogModuleManager: Shutting down and abandoning module DataValidation (318)
+[2021.02.15-14.25.03:539][901]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (316)
+[2021.02.15-14.25.03:539][901]LogModuleManager: Shutting down and abandoning module LevelEditor (315)
+[2021.02.15-14.25.03:539][901]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (314)
+[2021.02.15-14.25.03:539][901]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (312)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module MainFrame (310)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module HotReload (309)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module ToolMenus (305)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module ContentBrowser (303)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module ContentBrowserData (302)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module TreeMap (299)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (294)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2021.02.15-14.25.03:540][901]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (288)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (286)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module PacketHandler (284)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (282)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (280)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module MediaAssets (278)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module Overlay (276)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module OverlayEditor (275)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module VREditor (272)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module StringTableEditor (270)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (268)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (266)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module FunctionalTesting (264)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (262)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (261)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module UMG (258)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module UMGEditor (257)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module MessageLog (255)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module SlateReflector (250)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module Slate (248)
+[2021.02.15-14.25.03:542][901]LogModuleManager: Shutting down and abandoning module SlateCore (246)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (244)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module UnrealEd (242)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module MRMesh (240)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (238)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (236)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module XAudio2 (234)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module Networking (232)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module Core (230)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2021.02.15-14.25.03:544][901]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2021.02.15-14.25.03:545][901]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2021.02.15-14.25.03:546][901]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2021.02.15-14.25.03:547][901]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2021.02.15-14.25.03:547][901]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2021.02.15-14.25.03:547][901]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2021.02.15-14.25.03:547][901]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2021.02.15-14.25.03:547][901]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2021.02.15-14.25.03:548][901]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2021.02.15-14.25.03:549][901]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2021.02.15-14.25.03:552][901]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2021.02.15-14.25.03:552][901]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.02.15-14.25.03:552][901]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.02.15-14.25.03:552][901]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.02.15-14.25.03:553][901]LogHMD: Freeing OpenVRDLLHandle.
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2021.02.15-14.25.03:553][901]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.02.15-14.25.03:554][901]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.02.15-14.25.03:554][901]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.02.15-14.25.03:580][901]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.02.15-14.25.03:580][901]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.02.15-14.25.03:580][901]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B755D1680-46DA-1AFE-4151-FF8E14B95D1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=9e85807341fddbb9d1e7a2a2384aa123%7Cae89195862cf4cc79bd15d778a1234ab%7Cc0f808d8-5f1d-4999-80b4-ed9286c6bed5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.02.15-14.25.03:580][901]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.02.15-14.25.03:601][901]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.02.15-14.25.03:602][901]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.02.15-14.25.03:604][901]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.02.15-14.25.03:605][901]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.02.15-14.25.03:606][901]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.02.15-14.25.03:607][901]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.02.15-14.25.03:607][901]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.02.15-14.25.03:608][901]LogD3D11RHI: Shutdown
+[2021.02.15-14.25.03:608][901]LogD3D11RHI: CleanupD3DDevice
+[2021.02.15-14.25.03:634][901]LogExit: Exiting.
+[2021.02.15-14.25.03:647][901]Log file closed, 02/15/21 15:25:03
