@@ -1,0 +1,1663 @@
+﻿Log file open, 02/17/21 20:47:50
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PuzzleHorror3D2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.234230
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+[2021.02.17-19.47.50:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.17-19.47.50:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+[2021.02.17-19.47.50:778][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+[2021.02.17-19.47.50:789][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.17-19.47.50:789][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.17-19.47.50:790][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.17-19.47.50:790][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.17-19.47.50:790][  0]LogHAL: Display: Platform has ~ 16 GB [17022320640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.17-19.47.50:790][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.17-19.47.50:790][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.17-19.47.50:790][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Scalability.ini]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.17-19.47.50:791][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.17-19.47.50:792][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Config/Windows/Engine.ini]
+[2021.02.17-19.47.50:792][  0]LogInit: Computer: LAPTOP-P97PUFNM
+[2021.02.17-19.47.50:792][  0]LogInit: User: Zhang
+[2021.02.17-19.47.50:792][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.02.17-19.47.50:792][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.17-19.47.50:792][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.02.17-19.47.50:792][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.17-19.47.50:792][  0]LogMemory: Process Physical Memory: 140.92 MB used, 140.92 MB peak
+[2021.02.17-19.47.50:792][  0]LogMemory: Process Virtual Memory: 116.02 MB used, 116.02 MB peak
+[2021.02.17-19.47.50:792][  0]LogMemory: Physical Memory: 6925.46 MB used,  9308.29 MB free, 16233.75 MB total
+[2021.02.17-19.47.50:792][  0]LogMemory: Virtual Memory: 134194728.00 MB used,  22999.27 MB free, 134217728.00 MB total
+[2021.02.17-19.47.51:037][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.17-19.47.51:062][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.17-19.47.51:063][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.02.17-19.47.51:063][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.02.17-19.47.51:248][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.17-19.47.51:255][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-19.47.51:278][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.17-19.47.51:278][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.17-19.47.51:451][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.17-19.47.51:451][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.17-19.47.51:451][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.17-19.47.51:451][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.17-19.47.51:536][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.02.17-19.47.51:536][  0]LogD3D11RHI:       8031/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.02.17-19.47.51:548][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.02.17-19.47.51:548][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.02.17-19.47.51:550][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.17-19.47.51:550][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.17-19.47.51:550][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.17-19.47.51:588][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.17-19.47.51:588][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.17-19.47.51:588][  0]LogWindows: EnumDisplayDevices:
+[2021.02.17-19.47.51:588][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.02.17-19.47.51:588][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.02.17-19.47.51:589][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.02.17-19.47.51:589][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.02.17-19.47.51:589][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.02.17-19.47.51:589][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.02.17-19.47.51:590][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.02.17-19.47.51:590][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.02.17-19.47.51:590][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.02.17-19.47.51:590][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2021.02.17-19.47.51:590][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2021.02.17-19.47.51:590][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.02.17-19.47.51:639][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.17-19.47.51:639][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.17-19.47.51:639][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.17-19.47.51:659][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.17-19.47.51:660][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.17-19.47.51:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.17-19.47.51:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.17-19.47.52:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.17-19.47.52:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.17-19.47.52:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.17-19.47.52:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.17-19.47.52:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.17-19.47.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.17-19.47.52:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.17-19.47.52:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.17-19.47.52:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.17-19.47.52:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.17-19.47.52:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.17-19.47.52:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.17-19.47.52:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.17-19.47.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.17-19.47.52:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.17-19.47.52:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.17-19.47.52:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.17-19.47.52:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.17-19.47.52:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.17-19.47.52:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.17-19.47.52:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.17-19.47.52:167][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.17-19.47.52:175][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.17-19.47.52:235][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.17-19.47.52:235][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Intermediate/Shaders/WorkingDirectory/1388/).
+[2021.02.17-19.47.52:235][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zhang/AppData/Local/Temp/UnrealShaderWorkingDir/2B75C50C407E775AF15377B554366A33/'.
+[2021.02.17-19.47.52:235][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.17-19.47.52:235][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.17-19.47.52:945][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.17-19.47.52:994][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Zhang/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.17-19.47.52:994][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Zhang/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.17-19.47.52:994][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.17-19.47.52:994][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.17-19.47.52:994][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.17-19.47.52:994][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.17-19.47.53:006][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.17-19.47.53:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.17-19.47.53:006][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.17-19.47.53:014][  0]LogDerivedDataCache: Speed tests for C:/Users/Zhang/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.02.17-19.47.53:014][  0]LogDerivedDataCache: Display: Performance to C:/Users/Zhang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1128.67MBs, RandomWriteSpeed=154.73MBs. Assigned SpeedClass 'Local'
+[2021.02.17-19.47.53:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zhang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.17-19.47.53:014][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.17-19.47.53:014][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.17-19.47.53:059][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.17-19.47.53:060][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.17-19.47.53:083][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.02.17-19.47.53:304][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.17-19.47.53:304][  0]LogInit: Active device profile: [00000212046FAE00][0000021203BE9A00 49] Windows
+[2021.02.17-19.47.53:304][  0]LogInit: Profiles: [00000212046FAE00][0000021203BE9A00 49] Windows, [00000212046BD400][0000021203BF1B80 49] WindowsNoEditor, [00000212046F9400][0000021203BF5D00 49] WindowsServer, [00000212046BE600][0000021203BF81C0 49] WindowsClient, [00000212046FA500][0000021203BFC340 49] IOS, [00000212046BD200][0000021204D3E4C0 49] iPadAir, [00000212046F9C00][0000021204D42640 49] iPadAir2, [0000021204688100][0000021204D4A900 49] IPadPro, [0000021204688200][0000021204D46940 49] iPadAir3, [00000212046F8A00][0000021204D4EAC0 49] iPadAir4, [000002120468A700][0000021204D52C40 49] iPadMini2, [00000212046FBB00][0000021204D56DC0 49] iPadMini3, [0000021204688700][0000021204D5AF40 49] iPadMini4, [00000212046F9900][0000021204D5F0C0 49] iPadMini5, [000002120467B900][0000021204D67380 49] iPhone6, [000002120467BA00][0000021204D633C0 49] iPodTouch6, [000002120468A500][0000021203BED640 49] iPhone7, [000002120468A900][0000021204D6B680 49] iPodTouch7, [0000021204679800][0000021204D6F7C0 49] iPhone5S, [0000021204689200][0000021204D73900 49] iPhone6Plus, [000002120467BB00][0000021204D77A40 49] iPhone6S, [000002120468AA00][0000021204D7FBC0 49] iPhone6SPlus, [0000021204679300][0000021204D83D40 49] iPhone7Plus, [0000021204689000][0000021204D86200 49] iPhoneSE, [0000021204678C00][0000021204D8A380 49] iPhone8, [000002120468A200][0000021204D8E500 49] iPhone8Plus, [000002120467A500][0000021204D92680 49] iPhoneX, [000002120468A400][0000021204D96800 49] iPhoneXS, [000002120467B100][0000021204D9A980 49] iPhoneXSMax, [000002120468B100][0000021204D9EB00 49] iPhoneXR, [0000021204678300][0000021204DA2C80 49] iPhone11, [0000021204689300][0000021204DA6E00 49] iPhone11Pro, [000002120467B700][0000021204DAAF80 49] iPhone11ProMax, [000002120468B000][0000021204DAF100 49] iPhoneSE2, [000002120467A200][0000021204DB3280 49] iPhone12Mini, [0000021204688E00][0000021204DB7400 49] iPhone12, [000002120467A800][0000021204DBB580 49] iPhone12Pro, [000002120468BD00][0000021204DBF700 49] iPhone12ProMax, [000002120467B500][0000021204D7B840 49] iPadPro105, [0000021204689900][0000021204DC3980 49] iPadPro129, [0000021204678D00][0000021204DC7AC0 49] iPadPro97, [0000021204689D00][0000021204DCFC40 49] iPadPro2_129, [000002120467B000][0000021204DD2100 49] iPad5, [000002120468B900][0000021204DD6280 49] iPad6, [000002120467B600][0000021204DDA400 49] iPad7, [000002120468BF00][0000021204DDE580 49] iPad8, [000002120467AA00][0000021204DE2700 49] iPadPro11, [000002120468B800][0000021204DE6880 49] iPadPro2_11, [000002120467A400][0000021204DEAA00 49] iPadPro3_129, [000002120468BC00][0000021204DEEB80 49] iPadPro4_129, [000002120467BE00][0000021204DF2D00 49] AppleTV, [000002120468B600][0000021204DF6E80 49] AppleTV4K, [0000021204678400][0000021204DFB000 49] TVOS, [000002120468AC00][0000021204DFF180 49] Mac, [000002120467A600][0000021204E03300 49] MacClient, [00000212046BFB00][0000021204E07480 49] MacNoEditor, [000002120473C700][0000021204E0B600 49] MacServer, [00000212046BF800][0000021204E0F780 49] Linux, [000002120473CD00][0000021204DCB8C0 49] LinuxNoEditor, [00000212046BEC00][0000021204E13A00 49] LinuxAArch64NoEditor, [000002120473C900][0000021204E17B40 49] LinuxClient, [00000212046BC900][0000021204E1FCC0 49] LinuxAArch64Client, [000002120473C600][0000021204E22180 49] LinuxServer, [00000212046BDD00][0000021204E26300 49] LinuxAArch64Server, [000002120473CC00][0000021204E2A480 49] Android, [00000212046BE400][0000021204E2E600 49] Android_Low, [000002120467AC00][0000021204E32780 49] Android_Mid, [00000212046BC300][0000021204E36900 49] Android_High, [000002120467AB00][0000021204E3AA80 49] Android_Default, [00000212046BDE00][0000021204E3EC00 49] Android_Adreno4xx, [000002120467B300][0000021204E42D80 49] Android_Adreno5xx_Low, [00000212046BD300][0000021204E46F00 49] Android_Adreno5xx, [0000021204679C00][0000021204E4B080 49] Android_Adreno6xx, [00000212046BF700][0000021204E4F200 49] Android_Adreno6xx_Vulkan, [0000021204679600][0000021204E53380 49] Android_Mali_T6xx, [00000212046BC400][0000021204E57500 49] Android_Mali_T7xx, [0000021204679900][0000021204E5B680 49] Android_Mali_T8xx, [00000212046BF500][0000021204E5F800 49] Android_Mali_G71, [0000021204678600][0000021204E1B940 49] Android_Mali_G72, [00000212046BC700][0000021204E63A80 49] Android_Mali_G72_Vulkan, [0000021204678F00][0000021204E67BC0 49] Android_Mali_G76, [00000212046BFC00][0000021204E6BD00 49] Android_Mali_G76_Vulkan, [000002120467BF00][0000021204E721C0 49] Android_Mali_G77, [00000212046BFA00][0000021204E76340 49] Android_Mali_G77_Vulkan, [000002120467BC00][0000021204E7A4C0 49] Android_Vulkan_SM5, [00000212046BCC00][0000021204E7E640 49] Android_PowerVR_G6xxx, [0000021204679F00][0000021204E827C0 49] Android_PowerVR_GT7xxx, [00000212046BF400][0000021204E86940 49] Android_PowerVR_GE8xxx, [0000021204679B00][0000021204E8AAC0 49] Android_PowerVR_GM9xxx, [00000212046BD700][0000021204E8EC40 49] Android_PowerVR_GM9xxx_Vulkan, [0000021204678E00][0000021204E92DC0 49] Android_TegraK1, [00000212046BF600][0000021204E96F40 49] Android_Unknown_Vulkan, [0000021204679A00][0000021204E9B0C0 49] Lumin, [00000212046BC200][0000021204E9F240 49] Lumin_Desktop, [0000021204678200][0000021204EA33C0 49] HoloLens, 
+[2021.02.17-19.47.53:408][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.17-19.47.53:408][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.17-19.47.53:408][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.17-19.47.53:408][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.17-19.47.53:408][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.17-19.47.53:436][  0]LogNetVersion: PuzzleHorror3D2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 604449735)
+[2021.02.17-19.47.53:837][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.17-19.47.53:881][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.044353 seconds
+[2021.02.17-19.47.53:887][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.02.17-19.47.53:887][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.02.17-19.47.53:887][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.17-19.47.54:244][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.17-19.47.54:249][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.17-19.47.54:347][  0]SourceControl: Source control is disabled
+[2021.02.17-19.47.54:347][  0]SourceControl: Source control is disabled
+[2021.02.17-19.47.54:350][  0]SourceControl: Source control is disabled
+[2021.02.17-19.47.54:356][  0]SourceControl: Source control is disabled
+[2021.02.17-19.47.54:375][  0]SourceControl: Source control is disabled
+[2021.02.17-19.47.54:406][  0]LogUProjectInfo: Found projects:
+[2021.02.17-19.47.54:593][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.17-19.47.54:607][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.17-19.47.54:607][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.17-19.47.54:664][  0]LogCollectionManager: Loaded 0 collections in 0.000633 seconds
+[2021.02.17-19.47.54:684][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Collections/' took 0.00s
+[2021.02.17-19.47.54:684][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Horror2/PuzzleHorror3D2/Content/Developers/Zhang/Collections/' took 0.00s
+[2021.02.17-19.47.54:684][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Horror2/PuzzleHorror3D2/Content/Collections/' took 0.00s
+[2021.02.17-19.47.54:684][  0]LogOcInput: OculusInput pre-init called
+[2021.02.17-19.47.54:693][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.17-19.47.54:693][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.17-19.47.54:742][  0]LogEngine: Initializing Engine...
+[2021.02.17-19.47.54:743][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.17-19.47.54:743][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.17-19.47.54:744][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.17-19.47.54:848][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.17-19.47.54:856][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.17-19.47.54:873][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.17-19.47.54:877][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.17-19.47.54:877][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.47.54:877][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.47.54:877][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.47.54:877][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.47.54:962][  0]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.47.55:147][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.47.55:151][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.47.55:153][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.47.55:153][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.47.55:154][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.47.55:154][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.47.55:154][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.47.55:155][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.47.55:155][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.47.55:155][  0]LogInit: FAudioDevice initialized.
+[2021.02.17-19.47.55:155][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.17-19.47.55:155][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.17-19.47.55:207][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/Zhang/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.17-19.47.55:208][  0]LogInit: Texture streaming: Enabled
+[2021.02.17-19.47.55:219][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.02.17-19.47.55:222][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.17-19.47.55:222][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.17-19.47.55:225][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.17-19.47.55:257][  0]LogInit: Transaction tracking system initialized
+[2021.02.17-19.47.55:279][  0]BlueprintLog: New page: Editor Load
+[2021.02.17-19.47.55:348][  0]LocalizationService: Localization service is disabled
+[2021.02.17-19.47.55:371][  0]TimingProfiler: Initialize
+[2021.02.17-19.47.55:371][  0]TimingProfiler: OnSessionChanged
+[2021.02.17-19.47.55:371][  0]LoadingProfiler: Initialize
+[2021.02.17-19.47.55:371][  0]LoadingProfiler: OnSessionChanged
+[2021.02.17-19.47.55:371][  0]NetworkingProfiler: Initialize
+[2021.02.17-19.47.55:371][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.17-19.47.55:371][  0]MemoryProfiler: Initialize
+[2021.02.17-19.47.55:371][  0]MemoryProfiler: OnSessionChanged
+[2021.02.17-19.47.55:505][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.17-19.47.55:505][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.17-19.47.55:668][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Horror2/PuzzleHorror3D2/Content/' took 0.01s
+[2021.02.17-19.47.55:841][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.02.17-19.47.55:847][  0]SourceControl: Source control is disabled
+[2021.02.17-19.47.55:847][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.001
+[2021.02.17-19.47.55:847][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.17-19.47.55:847][  0]LogEditorServer: Warning: Can't find file '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.02.17-19.47.55:847][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.17-19.47.55:847][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2021.02.17-19.47.55:847][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.000
+[2021.02.17-19.47.55:849][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.003
+[2021.02.17-19.47.55:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.47.55:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.47.55:987][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.47.55:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.47.56:016][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3601 classes and 859 folders.
+[2021.02.17-19.47.56:018][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.17-19.47.56:019][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-19.47.56:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-19.47.56:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.02.17-19.47.56:019][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.17-19.47.56:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.17-19.47.56:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.17-19.47.56:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-19.47.56:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.17-19.47.56:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.02.17-19.47.56:021][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.17-19.47.56:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.17-19.47.56:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.02.17-19.47.56:021][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.17-19.47.56:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.17-19.47.56:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.17-19.47.56:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-19.47.56:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.17-19.47.56:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.02.17-19.47.56:023][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.17-19.47.56:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.17-19.47.56:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.02.17-19.47.56:023][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-19.47.56:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-19.47.56:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.17-19.47.56:024][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-19.47.56:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-19.47.56:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.02.17-19.47.56:024][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-19.47.56:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-19.47.56:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.17-19.47.56:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-19.47.56:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.17-19.47.56:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.02.17-19.47.56:026][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-19.47.56:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-19.47.56:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.02.17-19.47.56:026][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-19.47.56:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-19.47.56:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.02.17-19.47.56:027][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-19.47.56:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-19.47.56:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.02.17-19.47.56:027][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-19.47.56:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-19.47.56:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.02.17-19.47.56:028][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-19.47.56:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-19.47.56:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.02.17-19.47.56:029][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.17-19.47.56:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.17-19.47.56:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.02.17-19.47.56:029][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-19.47.56:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-19.47.56:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.02.17-19.47.56:030][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-19.47.56:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-19.47.56:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.02.17-19.47.56:030][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.17-19.47.56:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-19.47.56:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.17-19.47.56:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.02.17-19.47.56:067][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.17-19.47.56:425][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.17-19.47.56:491][  0]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.17-19.47.56:492][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.17-19.47.56:496][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.17-19.47.56:608][  0]LogRenderer: Reallocating scene render targets to support 908x648 Format 10 NumSamples 1 (Frame:1).
+[2021.02.17-19.47.56:825][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.17-19.47.56:825][  0]LogLoad: (Engine Initialization) Total time: 6.98 seconds
+[2021.02.17-19.47.56:826][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.17-19.47.56:826][  0]LogInit: First time updating LLM stats...
+[2021.02.17-19.47.56:888][  0]LogAssetRegistry: Asset discovery search completed in 3.8063 seconds
+[2021.02.17-19.47.56:889][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.02.17-19.47.56:918][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.17-19.47.57:525][  2]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.17-19.47.58:192][  4]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.17-19.48.02:813][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.17-19.48.02:986][ 71]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2021.02.17-19.48.03:222][ 71]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/Scenes/Zhang.Zhang
+[2021.02.17-19.48.03:222][ 71]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/Scene/Scenes/Zhang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.17-19.48.03:222][ 71]LightingResults: New page: Lighting Build
+[2021.02.17-19.48.03:223][ 71]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.02.17-19.48.03:223][ 71]LoadErrors: New page: Loading map: Zhang.umap
+[2021.02.17-19.48.03:261][ 71]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.48.03:261][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.48.03:261][ 71]MapCheck: New page: Map Check
+[2021.02.17-19.48.03:261][ 71]LightingResults: New page: Lighting Build
+[2021.02.17-19.48.03:271][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.02.17-19.48.03:273][ 71]LogAudio: Display: Audio Device (ID: 1) registered with world 'Zhang'.
+[2021.02.17-19.48.03:279][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.17-19.48.03:279][ 71]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.48.03:287][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.17-19.48.03:294][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.17-19.48.03:294][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2021.02.17-19.48.03:294][ 71]LogFileHelpers: Loading map 'Zhang' took 0.072
+[2021.02.17-19.48.04:607][147]LogEditorViewport: Clicking on Actor (LMB): Enemy1_C (Enemy1)
+[2021.02.17-19.48.17:309][902]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/zhang/Enemy1/Enemy1.Enemy1
+[2021.02.17-19.48.17:467][902]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 126 classes and 0 folders.
+[2021.02.17-19.48.18:319][902]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.17-19.48.25:143][290]LogSlate: Took 0.000589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.17-19.48.45:198][458]LogSlate: Took 0.011339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.02.17-19.51.12:218][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/zhang/Enemy1/Enemy1" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/Enemy1.uasset" SILENT=true
+[2021.02.17-19.51.12:229][137]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Enemy14A6BFBDE40C898625E3AD48A65F60CFA.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/Enemy1.uasset'
+[2021.02.17-19.51.12:245][137]AssetCheck: New page: Asset Save: Enemy1
+[2021.02.17-19.51.12:245][137]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/zhang/Enemy1/Enemy1.Enemy1
+[2021.02.17-19.51.13:994][242]BlueprintLog: New page: Compile Enemy1
+[2021.02.17-19.51.14:103][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.02.17-19.51.14:150][242]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.17-19.51.14:410][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/zhang/Enemy1/Enemy1" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/Enemy1.uasset" SILENT=true
+[2021.02.17-19.51.14:422][256]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Enemy1536C70A047C6CE50CD02E3A243285EE6.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/Enemy1.uasset'
+[2021.02.17-19.51.14:433][256]AssetCheck: New page: Asset Save: Enemy1
+[2021.02.17-19.51.14:433][256]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/zhang/Enemy1/Enemy1.Enemy1
+[2021.02.17-19.51.19:162][539]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.51.19:170][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.51.19:170][539]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:51:19)
+[2021.02.17-19.51.19:171][539]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.17-19.51.19:173][539]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.17-19.51.19:173][539]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.51.19:188][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015196s)
+[2021.02.17-19.51.19:189][539]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.51.19:190][539]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2021.02.17-19.51.19:190][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.016681s)
+[2021.02.17-19.51.19:214][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.02.17-19.51.19:216][539]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.51.19:216][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.51.19:216][539]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.51.19:216][539]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.51.19:222][539]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.51.19:261][539]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.51.19:261][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.51.19:261][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.51.19:261][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.51.19:261][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.51.19:261][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.51.19:262][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.51.19:282][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.51.19:282][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.51.19:282][539]LogInit: FAudioDevice initialized.
+[2021.02.17-19.51.19:282][539]LogAudio: Display: Audio Device (ID: 2) registered with world 'Zhang'.
+[2021.02.17-19.51.19:302][539]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.51.19:306][539]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.51.19
+[2021.02.17-19.51.19:307][539]LogWorld: Bringing up level for play took: 0.003194
+[2021.02.17-19.51.19:307][539]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.02.17-19.51.19:316][539]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.17-19.51.19:318][539]PIE: Server logged in
+[2021.02.17-19.51.19:319][539]PIE: Play in editor total start time 0.15 seconds.
+[2021.02.17-19.51.32:894][296]LogSlate: Window 'Enemy1' being destroyed
+[2021.02.17-19.51.32:900][296]LogSlate: Window 'Enemy1' being destroyed
+[2021.02.17-19.51.32:908][296]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.51.32:908][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.51.33:643][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.51.33:643][335]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.51.33:643][335]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.51.33:644][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.51.33:652][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.51.33:689][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.51.33:719][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.51.33:719][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.51.33:720][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.51.33:743][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.51.33:778][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.02.17-19.51.33:809][336]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.17-19.51.40:030][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/zhang/Enemy1/Enemy1.Enemy1
+[2021.02.17-19.51.46:252][ 21]LogRenderer: Reallocating scene render targets to support 1144x692 Format 10 NumSamples 1 (Frame:1).
+[2021.02.17-19.52.08:580][308]BlueprintLog: New page: Compile Enemy1
+[2021.02.17-19.52.08:728][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.02.17-19.52.09:062][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/zhang/Enemy1/Enemy1" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/Enemy1.uasset" SILENT=true
+[2021.02.17-19.52.09:073][324]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/Enemy198D4129D40646D98F20A53B08EA3BF2A.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/Enemy1.uasset'
+[2021.02.17-19.52.09:087][324]AssetCheck: New page: Asset Save: Enemy1
+[2021.02.17-19.52.09:088][324]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/zhang/Enemy1/Enemy1.Enemy1
+[2021.02.17-19.52.10:355][400]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.52.10:361][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.52.10:362][400]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:52:10)
+[2021.02.17-19.52.10:391][400]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.10:408][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016331s)
+[2021.02.17-19.52.10:409][400]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.52.10:409][400]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2021.02.17-19.52.10:410][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.017978s)
+[2021.02.17-19.52.10:430][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.02.17-19.52.10:432][400]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.52.10:432][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.52.10:432][400]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.52.10:432][400]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.52.10:437][400]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.52.10:437][400]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.52.10:437][400]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.52.10:437][400]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.52.10:437][400]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.52.10:437][400]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.52.10:438][400]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.52.10:438][400]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.52.10:476][400]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.52.10:476][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.52.10:476][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.52.10:476][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.52.10:476][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.52.10:476][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.52.10:476][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.52.10:492][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.52.10:492][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.52.10:492][400]LogInit: FAudioDevice initialized.
+[2021.02.17-19.52.10:492][400]LogAudio: Display: Audio Device (ID: 3) registered with world 'Zhang'.
+[2021.02.17-19.52.10:503][400]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.10:506][400]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.52.10
+[2021.02.17-19.52.10:506][400]LogWorld: Bringing up level for play took: 0.002357
+[2021.02.17-19.52.10:507][400]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.02.17-19.52.10:510][400]PIE: Server logged in
+[2021.02.17-19.52.10:511][400]PIE: Play in editor total start time 0.151 seconds.
+[2021.02.17-19.52.13:884][601]LogNet: Browse: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.52.13:884][601]LogLoad: LoadMap: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.52.13:884][601]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.13:885][601]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.13:885][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.13:927][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.52.13:930][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.02.17-19.52.13:935][601]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.13:935][601]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.13:955][601]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.13:956][601]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.13:956][601]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.13:961][601]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.13:961][601]LoadErrors: Failed to load /Game/Developer/Kevin/MainMenu_BuiltData.MainMenu_BuiltData Referenced by PersistentLevel
+[2021.02.17-19.52.13:970][601]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.02.17-19.52.13:971][601]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.17-19.52.13:971][601]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.13:974][601]LogWorld: Bringing World /Game/Developer/Kevin/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.02.17-20.52.13
+[2021.02.17-19.52.13:980][601]LogWorld: Bringing up level for play took: 0.007852
+[2021.02.17-19.52.14:007][601]LogLoad: Took 0.123450 seconds to LoadMap(/Game/Developer/Kevin/MainMenu)
+[2021.02.17-19.52.20:654][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.20:655][999]LogWorld: BeginTearingDown for /Game/Developer/Kevin/UEDPIE_0_MainMenu
+[2021.02.17-19.52.20:656][999]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.20:656][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.20:668][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.52.20:705][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.20:723][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.52.20:723][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.20:724][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.20:762][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.20:765][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.02.17-19.52.20:789][  0]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.02.17-19.52.22:380][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.52.22:387][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.52.22:387][ 95]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:52:22)
+[2021.02.17-19.52.22:387][ 95]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.22:400][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012698s)
+[2021.02.17-19.52.22:401][ 95]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.52.22:402][ 95]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2021.02.17-19.52.22:402][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.014673s)
+[2021.02.17-19.52.22:424][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.02.17-19.52.22:424][ 95]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.02.17-19.52.22:424][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.52.22:424][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.52.22:424][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.52.22:424][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.52.22:424][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.52.22:424][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.52.22:424][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.52.22:424][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.52.22:425][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.52.22:425][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.52.22:430][ 95]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.52.22:469][ 95]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.52.22:469][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.52.22:469][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.52.22:469][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.52.22:469][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.52.22:469][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.52.22:469][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.52.22:485][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.52.22:485][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.52.22:485][ 95]LogInit: FAudioDevice initialized.
+[2021.02.17-19.52.22:485][ 95]LogAudio: Display: Audio Device (ID: 4) registered with world 'Zhang'.
+[2021.02.17-19.52.22:489][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.22:492][ 95]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.52.22
+[2021.02.17-19.52.22:492][ 95]LogWorld: Bringing up level for play took: 0.002485
+[2021.02.17-19.52.22:493][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.02.17-19.52.22:495][ 95]PIE: Server logged in
+[2021.02.17-19.52.22:496][ 95]PIE: Play in editor total start time 0.111 seconds.
+[2021.02.17-19.52.29:236][498]LogNet: Browse: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.52.29:236][498]LogLoad: LoadMap: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.52.29:236][498]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.29:237][498]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.29:237][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.29:289][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.52.29:292][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.02.17-19.52.29:295][498]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.29:295][498]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.29:295][498]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.29:296][498]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.29:296][498]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.29:301][498]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.29:303][498]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2021.02.17-19.52.29:304][498]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.17-19.52.29:304][498]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.29:306][498]LogWorld: Bringing World /Game/Developer/Kevin/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.02.17-20.52.29
+[2021.02.17-19.52.29:306][498]LogWorld: Bringing up level for play took: 0.001104
+[2021.02.17-19.52.29:309][498]LogLoad: Took 0.072838 seconds to LoadMap(/Game/Developer/Kevin/MainMenu)
+[2021.02.17-19.52.31:800][647]LogNet: Browse: /Game/Developer/Kevin/Kevin
+[2021.02.17-19.52.31:800][647]LogLoad: LoadMap: /Game/Developer/Kevin/Kevin
+[2021.02.17-19.52.31:800][647]LogWorld: BeginTearingDown for /Game/Developer/Kevin/UEDPIE_0_MainMenu
+[2021.02.17-19.52.31:801][647]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.31:801][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.31:849][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.52.31:852][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.02.17-19.52.31:960][647]LogMaterial: Display: Missing cached shader map for material PaperMat, compiling. 
+[2021.02.17-19.52.32:005][647]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.02.17-19.52.32:005][647]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.17-19.52.32:005][647]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.02.17-19.52.32:005][647]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.17-19.52.32:005][647]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.17-19.52.32:005][647]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.02.17-19.52.32:005][647]LogAudio: Display: Audio Device (ID: 4) registered with world 'Kevin'.
+[2021.02.17-19.52.32:005][647]LogAIModule: Creating AISystem for world Kevin
+[2021.02.17-19.52.32:006][647]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.32:013][647]LogWorld: Bringing World /Game/Developer/Kevin/UEDPIE_0_Kevin.Kevin up for play (max tick rate 60) at 2021.02.17-20.52.32
+[2021.02.17-19.52.32:013][647]LogWorld: Bringing up level for play took: 0.006584
+[2021.02.17-19.52.32:015][647]LogLoad: Took 0.214595 seconds to LoadMap(/Game/Developer/Kevin/Kevin)
+[2021.02.17-19.52.37:553][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.37:553][972]LogWorld: BeginTearingDown for /Game/Developer/Kevin/UEDPIE_0_Kevin
+[2021.02.17-19.52.37:553][972]LogWorld: UWorld::CleanupWorld for Kevin, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.37:553][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.37:560][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.52.37:596][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.37:615][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.52.37:616][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.37:617][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.37:647][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.37:651][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.02.17-19.52.37:677][973]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.17-19.52.39:645][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.52.39:652][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.52.39:652][ 89]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:52:39)
+[2021.02.17-19.52.39:682][ 89]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.39:693][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011065s)
+[2021.02.17-19.52.39:694][ 89]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.52.39:694][ 89]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2021.02.17-19.52.39:694][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.012605s)
+[2021.02.17-19.52.39:718][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.02.17-19.52.39:718][ 89]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.02.17-19.52.39:718][ 89]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.52.39:719][ 89]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.52.39:719][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.52.39:719][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.52.39:719][ 89]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.52.39:719][ 89]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.52.39:719][ 89]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.52.39:719][ 89]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.52.39:719][ 89]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.52.39:719][ 89]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.52.39:724][ 89]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.52.39:762][ 89]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.52.39:762][ 89]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.52.39:762][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.52.39:762][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.52.39:763][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.52.39:763][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.52.39:763][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.52.39:780][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.52.39:780][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.52.39:780][ 89]LogInit: FAudioDevice initialized.
+[2021.02.17-19.52.39:780][ 89]LogAudio: Display: Audio Device (ID: 5) registered with world 'Zhang'.
+[2021.02.17-19.52.39:789][ 89]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.39:791][ 89]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.52.39
+[2021.02.17-19.52.39:791][ 89]LogWorld: Bringing up level for play took: 0.002283
+[2021.02.17-19.52.39:792][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.02.17-19.52.39:794][ 89]PIE: Server logged in
+[2021.02.17-19.52.39:795][ 89]PIE: Play in editor total start time 0.145 seconds.
+[2021.02.17-19.52.49:949][697]LogNet: Browse: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.52.49:949][697]LogLoad: LoadMap: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.52.49:950][697]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.49:950][697]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.49:950][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.49:988][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.52.49:991][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.02.17-19.52.49:993][697]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.49:993][697]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.49:994][697]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.49:994][697]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.49:994][697]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.49:999][697]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.52.50:003][697]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2021.02.17-19.52.50:003][697]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.17-19.52.50:004][697]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.50:005][697]LogWorld: Bringing World /Game/Developer/Kevin/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.02.17-20.52.50
+[2021.02.17-19.52.50:006][697]LogWorld: Bringing up level for play took: 0.001216
+[2021.02.17-19.52.50:009][697]LogLoad: Took 0.058923 seconds to LoadMap(/Game/Developer/Kevin/MainMenu)
+[2021.02.17-19.52.52:717][859]LogNet: Browse: /Game/Developer/Kevin/Kevin
+[2021.02.17-19.52.52:717][859]LogLoad: LoadMap: /Game/Developer/Kevin/Kevin
+[2021.02.17-19.52.52:717][859]LogWorld: BeginTearingDown for /Game/Developer/Kevin/UEDPIE_0_MainMenu
+[2021.02.17-19.52.52:718][859]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.52:718][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.52:768][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.52.52:771][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.17-19.52.52:785][859]LogAudio: Display: Audio Device (ID: 5) registered with world 'Kevin'.
+[2021.02.17-19.52.52:786][859]LogAIModule: Creating AISystem for world Kevin
+[2021.02.17-19.52.52:787][859]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.52:801][859]LogWorld: Bringing World /Game/Developer/Kevin/UEDPIE_0_Kevin.Kevin up for play (max tick rate 60) at 2021.02.17-20.52.52
+[2021.02.17-19.52.52:801][859]LogWorld: Bringing up level for play took: 0.013828
+[2021.02.17-19.52.52:803][859]LogLoad: Took 0.085878 seconds to LoadMap(/Game/Developer/Kevin/Kevin)
+[2021.02.17-19.52.54:222][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.54:222][941]LogWorld: BeginTearingDown for /Game/Developer/Kevin/UEDPIE_0_Kevin
+[2021.02.17-19.52.54:222][941]LogWorld: UWorld::CleanupWorld for Kevin, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.54:222][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.54:230][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.52.54:267][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.54:285][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.54:285][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.54:286][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.54:320][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.02.17-19.52.54:346][942]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.02.17-19.52.55:363][  2]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.52.55:371][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.52.55:371][  2]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:52:55)
+[2021.02.17-19.52.55:371][  2]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.55:383][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011754s)
+[2021.02.17-19.52.55:384][  2]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.52.55:384][  2]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2021.02.17-19.52.55:384][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.013390s)
+[2021.02.17-19.52.55:406][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.02.17-19.52.55:406][  2]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.02.17-19.52.55:406][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.52.55:406][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.52.55:406][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.52.55:406][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.52.55:406][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.52.55:406][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.52.55:407][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.52.55:407][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.52.55:407][  2]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.52.55:407][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.52.55:412][  2]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.52.55:449][  2]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.52.55:449][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.52.55:449][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.52.55:449][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.52.55:450][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.52.55:450][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.52.55:450][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.52.55:466][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.52.55:466][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.52.55:466][  2]LogInit: FAudioDevice initialized.
+[2021.02.17-19.52.55:466][  2]LogAudio: Display: Audio Device (ID: 6) registered with world 'Zhang'.
+[2021.02.17-19.52.55:474][  2]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.52.55:476][  2]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.52.55
+[2021.02.17-19.52.55:477][  2]LogWorld: Bringing up level for play took: 0.002132
+[2021.02.17-19.52.55:477][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.02.17-19.52.55:480][  2]PIE: Server logged in
+[2021.02.17-19.52.55:481][  2]PIE: Play in editor total start time 0.112 seconds.
+[2021.02.17-19.52.59:183][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.59:183][220]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.52.59:183][220]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.52.59:183][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.59:196][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.52.59:231][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.52.59:250][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.52.59:250][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.59:251][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.52.59:290][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.02.17-19.52.59:316][221]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.02.17-19.53.04:319][517]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/BluePrint/zhang/Enemy1/BT_Enemy1.BT_Enemy1
+[2021.02.17-19.53.09:540][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/zhang/Enemy1/BT_Enemy1" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset" SILENT=true
+[2021.02.17-19.53.09:547][823]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/BT_Enemy11C471BDE475BD0DB282A098E5CB708AA.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset'
+[2021.02.17-19.53.09:561][823]AssetCheck: New page: Asset Save: BT_Enemy1
+[2021.02.17-19.53.09:561][823]LogContentValidation: Display: Validating BehaviorTree /Game/BluePrint/zhang/Enemy1/BT_Enemy1.BT_Enemy1
+[2021.02.17-19.53.13:355][ 51]Cmd: TRANSACTION UNDO
+[2021.02.17-19.53.13:355][ 51]LogEditorTransaction: Undo Delete current selection
+[2021.02.17-19.53.16:068][202]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/BluePrint/zhang/Sound/Enemy1/HearyouEnemy1.HearyouEnemy1
+[2021.02.17-19.53.23:548][645]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/BluePrint/zhang/Sound/Enemy1/SeeYouEnemy1.SeeYouEnemy1
+[2021.02.17-19.53.31:013][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/zhang/Enemy1/BT_Enemy1" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset" SILENT=true
+[2021.02.17-19.53.31:016][ 85]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/BT_Enemy14015CA0742524183DA8DF290317205A1.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset'
+[2021.02.17-19.53.31:029][ 85]AssetCheck: New page: Asset Save: BT_Enemy1
+[2021.02.17-19.53.31:029][ 85]LogContentValidation: Display: Validating BehaviorTree /Game/BluePrint/zhang/Enemy1/BT_Enemy1.BT_Enemy1
+[2021.02.17-19.53.32:631][181]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.53.32:640][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.53.32:640][181]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:53:32)
+[2021.02.17-19.53.32:640][181]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.53.32:651][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011011s)
+[2021.02.17-19.53.32:652][181]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.53.32:652][181]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2021.02.17-19.53.32:652][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.012372s)
+[2021.02.17-19.53.32:676][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.02.17-19.53.32:679][181]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.53.32:679][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.53.32:679][181]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.53.32:679][181]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.53.32:684][181]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.53.32:721][181]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.53.32:721][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.53.32:721][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.53.32:721][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.53.32:722][181]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.53.32:722][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.53.32:722][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.53.32:740][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.53.32:740][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.53.32:741][181]LogInit: FAudioDevice initialized.
+[2021.02.17-19.53.32:741][181]LogAudio: Display: Audio Device (ID: 7) registered with world 'Zhang'.
+[2021.02.17-19.53.32:751][181]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.53.32:753][181]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.53.32
+[2021.02.17-19.53.32:754][181]LogWorld: Bringing up level for play took: 0.002204
+[2021.02.17-19.53.32:754][181]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.02.17-19.53.32:757][181]PIE: Server logged in
+[2021.02.17-19.53.32:758][181]PIE: Play in editor total start time 0.121 seconds.
+[2021.02.17-19.53.38:857][545]LogNet: Browse: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.53.38:857][545]LogLoad: LoadMap: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.53.38:857][545]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.53.38:858][545]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.53.38:858][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.53.38:900][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.53.38:903][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.02.17-19.53.38:906][545]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.53.38:906][545]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.53.38:906][545]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.53.38:907][545]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.53.38:907][545]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.53.38:912][545]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.53.38:914][545]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2021.02.17-19.53.38:915][545]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.17-19.53.38:915][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.53.38:917][545]LogWorld: Bringing World /Game/Developer/Kevin/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.02.17-20.53.38
+[2021.02.17-19.53.38:917][545]LogWorld: Bringing up level for play took: 0.001065
+[2021.02.17-19.53.38:920][545]LogLoad: Took 0.062209 seconds to LoadMap(/Game/Developer/Kevin/MainMenu)
+[2021.02.17-19.53.40:185][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.53.40:185][618]LogWorld: BeginTearingDown for /Game/Developer/Kevin/UEDPIE_0_MainMenu
+[2021.02.17-19.53.40:185][618]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.53.40:185][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.53.40:195][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.53.40:231][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.53.40:249][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.53.40:249][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.53.40:250][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.53.40:286][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.53.40:288][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.02.17-19.53.40:316][619]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.02.17-19.54.21:319][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/zhang/Enemy1/FindPlayer.FindPlayer
+[2021.02.17-19.54.26:501][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/zhang/Enemy1/BT_Enemy1" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset" SILENT=true
+[2021.02.17-19.54.26:506][360]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/BT_Enemy1D0F0127046F3F52DB774D09A756BCF9D.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset'
+[2021.02.17-19.54.26:522][360]AssetCheck: New page: Asset Save: BT_Enemy1
+[2021.02.17-19.54.26:522][360]LogContentValidation: Display: Validating BehaviorTree /Game/BluePrint/zhang/Enemy1/BT_Enemy1.BT_Enemy1
+[2021.02.17-19.54.28:139][456]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.54.28:147][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.54.28:148][456]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:54:28)
+[2021.02.17-19.54.28:148][456]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.54.28:159][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011362s)
+[2021.02.17-19.54.28:160][456]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.54.28:160][456]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2021.02.17-19.54.28:160][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.012862s)
+[2021.02.17-19.54.28:188][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.02.17-19.54.28:188][456]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.54.28:189][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.54.28:189][456]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.54.28:189][456]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.54.28:195][456]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.54.28:232][456]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.54.28:232][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.54.28:232][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.54.28:232][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.54.28:233][456]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.54.28:233][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.54.28:233][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.54.28:251][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.54.28:251][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.54.28:251][456]LogInit: FAudioDevice initialized.
+[2021.02.17-19.54.28:251][456]LogAudio: Display: Audio Device (ID: 8) registered with world 'Zhang'.
+[2021.02.17-19.54.28:261][456]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.54.28:264][456]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.54.28
+[2021.02.17-19.54.28:265][456]LogWorld: Bringing up level for play took: 0.002882
+[2021.02.17-19.54.28:265][456]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.02.17-19.54.28:269][456]PIE: Server logged in
+[2021.02.17-19.54.28:270][456]PIE: Play in editor total start time 0.126 seconds.
+[2021.02.17-19.54.32:336][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.54.32:336][696]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.54.32:336][696]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.54.32:336][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.54.32:350][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.54.32:393][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.54.32:414][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.54.32:414][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.54.32:416][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.54.32:448][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.54.32:451][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.02.17-19.54.32:478][697]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.02.17-19.54.35:667][886]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/zhang/Enemy1/ChasePlayer.ChasePlayer
+[2021.02.17-19.54.42:350][263]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/zhang/Enemy1/FindRandomPoint.FindRandomPoint
+[2021.02.17-19.54.52:590][852]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/zhang/Enemy1/UpdateSpeed.UpdateSpeed
+[2021.02.17-19.54.57:082][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/zhang/Enemy1/Enemy1_Controller.Enemy1_Controller
+[2021.02.17-19.55.47:159][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/zhang/Enemy1/BT_Enemy1" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset" SILENT=true
+[2021.02.17-19.55.47:165][ 72]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/BT_Enemy1F8AB8DA848C27FB1EC298789C4ECA0C4.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/BluePrint/zhang/Enemy1/BT_Enemy1.uasset'
+[2021.02.17-19.55.47:181][ 72]AssetCheck: New page: Asset Save: BT_Enemy1
+[2021.02.17-19.55.47:181][ 72]LogContentValidation: Display: Validating BehaviorTree /Game/BluePrint/zhang/Enemy1/BT_Enemy1.BT_Enemy1
+[2021.02.17-19.55.49:095][187]LogLinker: Warning: Failed to load '/Game/Scene/Scenes/Zhang.Zhang:PersistentLevel.Zhang': Can't resolve asset name
+[2021.02.17-19.55.54:347][499]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.55.54:357][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.55.54:357][499]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:55:54)
+[2021.02.17-19.55.54:357][499]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.55.54:370][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013163s)
+[2021.02.17-19.55.54:371][499]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.55.54:372][499]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2021.02.17-19.55.54:372][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.014806s)
+[2021.02.17-19.55.54:410][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.02.17-19.55.54:411][499]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.02.17-19.55.54:411][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.55.54:411][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.55.54:411][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.55.54:411][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.55.54:411][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.55.54:411][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.55.54:411][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.55.54:411][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.55.54:411][499]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.55.54:412][499]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.55.54:416][499]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.55.54:454][499]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.55.54:454][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.55.54:454][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.55.54:454][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.55.54:456][499]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.55.54:456][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.55.54:456][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.55.54:475][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.55.54:475][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.55.54:475][499]LogInit: FAudioDevice initialized.
+[2021.02.17-19.55.54:475][499]LogAudio: Display: Audio Device (ID: 9) registered with world 'Zhang'.
+[2021.02.17-19.55.54:485][499]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.55.54:488][499]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.55.54
+[2021.02.17-19.55.54:488][499]LogWorld: Bringing up level for play took: 0.002263
+[2021.02.17-19.55.54:488][499]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.02.17-19.55.54:492][499]PIE: Server logged in
+[2021.02.17-19.55.54:493][499]PIE: Play in editor total start time 0.14 seconds.
+[2021.02.17-19.55.57:995][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.55.57:995][706]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.55.57:996][706]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.55.57:996][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.55.58:007][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.55.58:043][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.55.58:074][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.55.58:074][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.55.58:075][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.55.58:106][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.55.58:109][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.02.17-19.55.58:137][707]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.02.17-19.56.07:555][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.02.17-19.56.24:864][257]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/FirstPersonCharacter0DE6316049F93C90F19BA3BA4452EFC6.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.02.17-19.56.24:882][257]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.02.17-19.56.24:882][257]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.02.17-19.56.30:160][563]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/FirstPersonCharacterFAAF20354CAA61450B41EC9A2FFA4B10.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.02.17-19.56.30:170][563]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.02.17-19.56.30:170][563]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.02.17-19.56.34:550][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/Scenes/Zhang" FILE="../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/Scene/Scenes/Zhang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.17-19.56.34:590][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.02.17-19.56.34:612][747]LogSavePackage: Moving '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Saved/ZhangE66CE7944429BFDEE027BDB6167406A1.tmp' to '../../../../../Unreal Projects/Horror2/PuzzleHorror3D2/Content/Scene/Scenes/Zhang.umap'
+[2021.02.17-19.56.34:636][747]AssetCheck: New page: Asset Save: Zhang
+[2021.02.17-19.56.34:636][747]LogContentValidation: Display: Validating World /Game/Scene/Scenes/Zhang.Zhang
+[2021.02.17-19.56.35:315][788]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.56.35:324][788]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.17-19.56.35:332][788]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.02.17-19.56.35:466][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.02.17-19.56.35:467][788]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2021.02.17-19.56.35:467][788]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:56:35)
+[2021.02.17-19.56.35:501][788]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.56.35:514][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012583s)
+[2021.02.17-19.56.35:515][788]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.56.35:515][788]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2021.02.17-19.56.35:515][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.013944s)
+[2021.02.17-19.56.35:554][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.17-19.56.35:554][788]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.56.35:554][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.56.35:554][788]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.56.35:554][788]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.56.35:559][788]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.56.35:601][788]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.56.35:601][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.56.35:601][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.56.35:601][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.56.35:602][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.56.35:602][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.56.35:602][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.56.35:619][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.56.35:619][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.56.35:619][788]LogInit: FAudioDevice initialized.
+[2021.02.17-19.56.35:619][788]LogAudio: Display: Audio Device (ID: 10) registered with world 'Zhang'.
+[2021.02.17-19.56.35:634][788]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.56.35:637][788]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.56.35
+[2021.02.17-19.56.35:638][788]LogWorld: Bringing up level for play took: 0.002716
+[2021.02.17-19.56.35:638][788]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.02.17-19.56.35:641][788]PIE: Server logged in
+[2021.02.17-19.56.35:642][788]PIE: Play in editor total start time 0.321 seconds.
+[2021.02.17-19.56.41:287][126]LogNet: Browse: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.56.41:287][126]LogLoad: LoadMap: /Game/Developer/Kevin/MainMenu
+[2021.02.17-19.56.41:287][126]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.56.41:287][126]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.56.41:287][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.56.41:343][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.17-19.56.41:346][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.02.17-19.56.41:349][126]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.56.41:349][126]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.56.41:349][126]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.56.41:350][126]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.56.41:350][126]LogLinker: Warning: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.56.41:355][126]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Horror2\PuzzleHorror3D2\Content\Developer\Kevin\MainMenu.umap: Failed to load '/Game/Developer/Kevin/MainMenu_BuiltData': Can't find file.
+[2021.02.17-19.56.41:357][126]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2021.02.17-19.56.41:358][126]LogAIModule: Creating AISystem for world MainMenu
+[2021.02.17-19.56.41:358][126]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.56.41:360][126]LogWorld: Bringing World /Game/Developer/Kevin/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.02.17-20.56.41
+[2021.02.17-19.56.41:361][126]LogWorld: Bringing up level for play took: 0.001438
+[2021.02.17-19.56.41:365][126]LogLoad: Took 0.078314 seconds to LoadMap(/Game/Developer/Kevin/MainMenu)
+[2021.02.17-19.56.42:444][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.56.42:444][188]LogWorld: BeginTearingDown for /Game/Developer/Kevin/UEDPIE_0_MainMenu
+[2021.02.17-19.56.42:444][188]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.56.42:444][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.56.42:450][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.56.42:487][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.56.42:520][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.56.42:520][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.56.42:521][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.56.42:561][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.02.17-19.56.42:590][189]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.02.17-19.56.43:093][218]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.17-19.56.43:103][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.17-19.56.43:103][218]PIE: New page: PIE session: Zhang (2021年2月17日 下午9:56:43)
+[2021.02.17-19.56.43:103][218]LogPlayLevel: Creating play world package: /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.56.43:114][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011385s)
+[2021.02.17-19.56.43:115][218]LogAIModule: Creating AISystem for world Zhang
+[2021.02.17-19.56.43:115][218]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2021.02.17-19.56.43:115][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scenes/Zhang.Zhang to /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang (0.012391s)
+[2021.02.17-19.56.43:151][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.02.17-19.56.43:152][218]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.02.17-19.56.43:152][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.17-19.56.43:152][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.17-19.56.43:152][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.17-19.56.43:152][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.17-19.56.43:152][218]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.17-19.56.43:152][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.17-19.56.43:153][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.17-19.56.43:153][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.17-19.56.43:153][218]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.17-19.56.43:153][218]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 1: FrontRight
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 4: BackLeft
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 5: BackRight
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 6: SideLeft
+[2021.02.17-19.56.43:158][218]LogAudioMixer: Display: 7: SideRight
+[2021.02.17-19.56.43:196][218]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.17-19.56.43:196][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.17-19.56.43:197][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.17-19.56.43:197][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.17-19.56.43:197][218]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.17-19.56.43:197][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.17-19.56.43:197][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.17-19.56.43:214][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.17-19.56.43:214][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.17-19.56.43:214][218]LogInit: FAudioDevice initialized.
+[2021.02.17-19.56.43:214][218]LogAudio: Display: Audio Device (ID: 11) registered with world 'Zhang'.
+[2021.02.17-19.56.43:221][218]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.17-19.56.43:223][218]LogWorld: Bringing World /Game/Scene/Scenes/UEDPIE_0_Zhang.Zhang up for play (max tick rate 60) at 2021.02.17-20.56.43
+[2021.02.17-19.56.43:224][218]LogWorld: Bringing up level for play took: 0.002396
+[2021.02.17-19.56.43:224][218]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.02.17-19.56.43:227][218]PIE: Server logged in
+[2021.02.17-19.56.43:228][218]PIE: Play in editor total start time 0.129 seconds.
+[2021.02.17-19.57.05:915][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.57.05:915][576]LogWorld: BeginTearingDown for /Game/Scene/Scenes/UEDPIE_0_Zhang
+[2021.02.17-19.57.05:915][576]LogWorld: UWorld::CleanupWorld for Zhang, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-19.57.05:915][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.57.05:924][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.17-19.57.05:971][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-19.57.06:001][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-19.57.06:002][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.57.06:003][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.17-19.57.06:038][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.02.17-19.57.06:066][577]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.02.17-19.57.31:698][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.02.17-19.57.34:357][107]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.17-19.57.40:912][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.02.17-19.57.41:780][498]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.17-19.57.41:883][498]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/BluePrint/zhang/Sound/Enemy1/ES_Monster-Grunt-23-SFX-Producer.ES_Monster-Grunt-23-SFX-Producer
+	Asset Name: /Game/BluePrint/zhang/Sound/Enemy1/SeeYouEnemy1.SeeYouEnemy1
+[2021.02.17-19.57.44:459][498]LogSlate: Window 'Message' being destroyed
+[2021.02.17-19.57.44:463][498]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/BluePrint/zhang/Sound/Enemy1/ES_Monster-Grunt-23-SFX-Producer.ES_Monster-Grunt-23-SFX-Producer is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/BluePrint/zhang/Sound/Enemy1/ES_Monster-Grunt-23-SFX-Producer.ES_Monster-Grunt-23-SFX-Producer:
+   SoundNodeWavePlayer /Game/BluePrint/zhang/Sound/Enemy1/SeeYouEnemy1.SeeYouEnemy1:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.02.17-19.57.44:463][498]LogObjectTools: Warning: ForceDeleteObject failed to delete ES_Monster-Grunt-23-SFX-Producer, this package is now potentially corrupt
+[2021.02.17-19.57.44:545][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.02.17-19.57.44:585][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.02.17-19.57.44:619][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.02.17-19.57.44:623][498]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.17-19.57.45:458][498]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.835 s
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: 
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3191]
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: 
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: 					from the file system manually: 
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: /Game/BluePrint/zhang/Sound/Enemy1/ES_Monster-Grunt-23-SFX-Producer
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: Stack: 
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff978bd8218 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff978478fc9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff977bd40d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff977eafc7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff977ea7157 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff9799385fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff97995077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797946be UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff979817f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff979800367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:458][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797f3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18fbca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18e9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18fe379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18e4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9f69d5c1d USER32.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9f69d5612 USER32.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18ff7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff979822274 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797bd486 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff977f3c11e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff97846c888 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff97846bcc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9592c6f4c UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9592c732a UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9592b7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff96c04dc15 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff96c161d5e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff96c1439d6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797c33b9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797fc65a UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff96c17d9bb UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797925b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797fe399 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9797f2236 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18fb948 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18e9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18fe379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18e4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9f69d5c1d USER32.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9f69d5612 USER32.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9e18ff904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff7b6c18857 UE4Editor.exe!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff7b6c311ac UE4Editor.exe!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff7b6c3128a UE4Editor.exe!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff7b6c452ed UE4Editor.exe!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff7b6c4801a UE4Editor.exe!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9f6b77c24 KERNEL32.DLL!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: [Callstack] 0x00007ff9f6ded721 ntdll.dll!UnknownFunction []
+[2021.02.17-19.57.45:459][498]LogOutputDevice: Error: 
